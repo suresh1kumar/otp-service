@@ -1,0 +1,39 @@
+#Common to Ignore
+/target/
+/logs/
+.classpath
+.project
+.settings
+**/.DS_Store
+
+/build/
+
+#IntelliJ files
+**/*.iml
+**/.idea
+**/.mvn
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+.gradle
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# Gradle:
+.idea/gradle.xml
+.idea/libraries
+/service/build/
+/library/build/
+/service/out/
+**/protobuf/generated/

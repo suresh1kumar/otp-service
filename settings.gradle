@@ -1,0 +1,4 @@
+rootProject.name = 'neom-fss-neompay-otp-api'
+
+include 'library'
+include 'service'
